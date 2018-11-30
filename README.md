@@ -95,21 +95,13 @@ Potential future directions of our study include: <br/>
 
 ## Reference 
 * Franc, Vojtech, Alexander Zien, and Bernhard Schölkopf. "Support Vector Machines as Probabilistic Models." *ICML*. 2011.<br/>
-
 * Gou, Jianping, et al. "A new distance-weighted k-nearest neighbor classifier." *J. Inf. Comput. Sci* 9.6 (2012): 1429-1436.<br/>
-
 * Jadhav, Sayali D., and H. P. Channe. "Comparative study of KNN, naive Bayes and decision tree classification techniques." *International Journal of Science and Research* 5.1 (2016).<br/>
-
 * Kumar, Rajeev, and Abhaya Indrayan. "Receiver operating characteristic (ROC) curve for medical researchers." *Indian pediatrics* 48.4 (2011): 277-287. <br/>
-
 * Lin, Hsuan-Tien, Chih-Jen Lin, and Ruby C. Weng. "A note on Platt’s probabilistic outputs for support vector machines." *Machine learning* 68.3 (2007): 267-276.<br/>
-
 * Noel Cressie and Christopher K. Wikle, “Expecting Too Much Certainty.” *Statistics for Spatio-Temporal Data, Wiley*, 2011, p. 4<br/>
-
 * Rüping, Stefan. *A simple method for estimating conditional probabilities for svms*. No. 2004, 56. Technical Report/Universität Dortmund, SFB 475 Komplexitätsreduktion in Multivariaten Datenstrukturen, 2004.<br/>
-
 * Thammasiri, Dech, et al. "A critical assessment of imbalanced class distribution problem: The case of predicting freshmen student attrition." *Expert Systems with Applications* 41.2 (2014): 321-330. <br/>
-
 * Yigit, Halil. "A weighting approach for KNN classifier." Electronics, Computer and Computation (ICECCO), *2013 International Conference on*. IEEE, 2013.
 
 
